@@ -24,7 +24,7 @@ console.log(`The percentage change is ${percentageChange}`);
 //answers
 
 //  a)
-//on line 4, carPrice.replaceAll(",", ""), replaceAll is called on carPrice to remove the commas.
+//on line 4, carPrice.replaceAll(",", ""), replaceAll is called on carPrice to remove the commas..
 // on line 4, Number is called to replace the results of replaceAll to a number, cause they were strings.
 // on line 5, priceAfterOneYear.replaceAll("," ""), replaceAll is called on priceAfterOneYear to remove thee comas.
 // on line 5, Number is called to replace the results of replaceAll to a number, cause they were strings.
