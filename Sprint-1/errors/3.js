@@ -10,7 +10,7 @@
  
 
 // the code provided will produce an error cause the .slice() will only generate strings and arrays while the cardNumber is a number.
-// to correct this i will introduce the .toString() to change it to a string,
+// to correct this i will introduce the .toString() to change it to a string.
 
 const cardNumber = 4533787178994213;
 const last4Digits = cardNumber.toString().slice(-4);
